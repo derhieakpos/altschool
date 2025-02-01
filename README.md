@@ -1,0 +1,1 @@
+This folder contains all the assignment done at AltSchool Africa
